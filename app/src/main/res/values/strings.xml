@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">News App</string>
+    <string name="published">Published at:\u0020</string>
+    <string name="separator0">T</string>
+    <string name="separator1">Z</string>
+    <string name="separator2">in</string>
+    <string name="section">In section:\u0020</string>
+    <string name="written">\u0020written by:\u0020</string>
+    <string name="settings_menu_item">Settings</string>
+    <string name="settings_title">News Settings</string>
+    <string name="settings_min_articles_label">Number of articles</string>
+    <string name="settings_min_articles_key" translatable="false">page-size</string>
+    <string name="settings_min_articles_default" translatable="false">10</string>
+    <string name="settings_order_by_label">Order By</string>
+    <string name="settings_order_by_key" translatable="false">order-by</string>
+    <string name="settings_order_by_default" translatable="false">@string/settings_order_by_newest_value</string>
+    <string name="settings_order_by_newest_label">Newest</string>
+    <string name="settings_order_by_newest_value" translatable="false">newest</string>
+    <string name="settings_order_by_oldest_label">Oldest</string>
+    <string name="settings_order_by_oldest_value" translatable="false">oldest</string>
+    <string name="settings_search_label">Search for</string>
+    <string name="settings_search_key" translatable="false">q</string>
+    <string name="settings_search_default" translatable="false">E3</string>
+</resources>
